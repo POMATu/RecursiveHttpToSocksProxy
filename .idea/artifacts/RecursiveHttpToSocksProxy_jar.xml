@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RecursiveHttpToSocksProxy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RecursiveHttpToSocksProxy_jar</output-path>
+    <root id="archive" name="RecursiveHttpToSocksProxy.jar">
+      <element id="module-output" name="RecursiveHttpToSocksProxy" />
+    </root>
+  </artifact>
+</component>
