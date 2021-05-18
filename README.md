@@ -8,12 +8,12 @@ Socks auth supported.
 
 ## Usage with auth:
 ````
-java -jar RecursiveHttpProxy.jar [bindip:]bindport lawfilter.ertelecom[:info.rt.ru[:info.ertelecom]] proxyusername:proxypassword socks1:port1 socks2:port2 socks3:port3
+java -jar RecursiveHttpProxy.jar timeoutmsecs [bindip:]bindport lawfilter.ertelecom[:info.rt.ru[:info.ertelecom]] proxyusername:proxypassword socks1:port1 socks2:port2 socks3:port3
 ````
 
 ## Usage without auth:
 ```
-java -jar RecursiveHttpProxy.jar [bindip:]bindport lawfilter.ertelecom[:info.rt.ru[:info.ertelecom]] null socks1:port1 socks2:port2 socks3:port3
+java -jar RecursiveHttpProxy.jar timeoutmsecs [bindip:]bindport lawfilter.ertelecom[:info.rt.ru[:info.ertelecom]] null socks1:port1 socks2:port2 socks3:port3
 ```
 
 ## Download jar
